@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://echuhoopau.casjaydns.com/sitemap.xml
